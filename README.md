@@ -1,5 +1,9 @@
 <h1>AI & Data Science Engineer</h1>
-<p>Hi , I'm Chaytanya Kumar! Be it sports, movies, or tackling real-world business challenges, I believe data has the power to unlock insights, drive decisions, and transform the world. 🚀📊 Believe me, I use it everywhere—and it works 95% of the time (according to my unbiased model).</p>
+<p>Hi , I'm Chaytanya Kumar! Be it sports, movies, or tackling real-world business challenges, I believe data has the power to unlock insights, drive decisions, and transform the world. 🚀📊 Believe me, I use it everywhere—and it works 95% of the time (according to my unbiased model).
+
+I have over 5+ years of expertise in data science & engineering, machine learning, and advanced data strategies. With a strong technical foundation in SQL, Python, and cloud-based data transformation (GCP, AWS, Azure), I specialize in analyzing, and developing predictive models, implementing scalable AI-driven solutions, and building interactive dashboards using tools.
+
+</p>
 <h2>🚀 Languages and Tools I Use</h2>
 <p><a target="_blank" href="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="42" height="42" /></a>
 <a target="_blank" href="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="42" height="42" /></a>
